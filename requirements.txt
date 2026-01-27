@@ -1,0 +1,6 @@
+pandas
+pyarrow
+databricks-sql-connector
+python-dotenv
+databricks
+

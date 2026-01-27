@@ -1,0 +1,18 @@
+[
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "talent_size":218760.0,
+    "talent_demand":10455,
+    "median_base_pay":130622.6666666667,
+    "hiring_difficulty_index":5.8
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "talent_size":134300.0,
+    "talent_demand":5753,
+    "median_base_pay":144000.0,
+    "hiring_difficulty_index":5.9
+  }
+]

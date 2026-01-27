@@ -1,0 +1,398 @@
+[
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"food, beverages & consumer goods",
+    "workforce_distribution_percentage":1.0937585567
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"telecommunications",
+    "workforce_distribution_percentage":1.5243793851
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"it services",
+    "workforce_distribution_percentage":8.4052270676
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"government & non profit organisation",
+    "workforce_distribution_percentage":3.6802139362
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"transportation",
+    "workforce_distribution_percentage":0.6040292477
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"aerospace",
+    "workforce_distribution_percentage":2.2029348986
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"construction & heavy machinery",
+    "workforce_distribution_percentage":0.284359146
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"food, beverages & consumer goods",
+    "workforce_distribution_percentage":0.9796121119
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"telecommunications",
+    "workforce_distribution_percentage":2.102496517
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"it services",
+    "workforce_distribution_percentage":11.0097951869
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"government & non profit organisation",
+    "workforce_distribution_percentage":1.7396931841
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"transportation",
+    "workforce_distribution_percentage":0.6707357459
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"aerospace",
+    "workforce_distribution_percentage":1.8352102868
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"sports",
+    "workforce_distribution_percentage":0.1198568338
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"insurance",
+    "workforce_distribution_percentage":3.4245642817
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"textiles, apparel and luxury goods",
+    "workforce_distribution_percentage":0.3195397485
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"banking & financial services",
+    "workforce_distribution_percentage":8.6865450442
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"product engineering services",
+    "workforce_distribution_percentage":1.726255564
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"consumer software",
+    "workforce_distribution_percentage":13.0413568806
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"semiconductor",
+    "workforce_distribution_percentage":0.620254786
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"industrial",
+    "workforce_distribution_percentage":0.8942772442
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"logistics & supply chain",
+    "workforce_distribution_percentage":0.7209811257
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"enterprise software",
+    "workforce_distribution_percentage":15.8436314266
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"retail",
+    "workforce_distribution_percentage":2.9699826428
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"media & entertainment",
+    "workforce_distribution_percentage":1.5896915101
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"travel & hospitality",
+    "workforce_distribution_percentage":0.767459068
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"consumer electronics",
+    "workforce_distribution_percentage":1.4379112805
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"education",
+    "workforce_distribution_percentage":3.8597745854
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"pharmaceutical",
+    "workforce_distribution_percentage":1.9305455454
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"chemicals & materials",
+    "workforce_distribution_percentage":0.5920968732
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"medical devices",
+    "workforce_distribution_percentage":1.0268769171
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"engineering, procurement and construction",
+    "workforce_distribution_percentage":0.5409726253
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"real estate",
+    "workforce_distribution_percentage":0.5522487789
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"professional services",
+    "workforce_distribution_percentage":11.3685609338
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"automotive",
+    "workforce_distribution_percentage":1.2022702311
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"metals & mining",
+    "workforce_distribution_percentage":0.1085306177
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"energy & utilities",
+    "workforce_distribution_percentage":1.8633621786
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"hospital & healthcare",
+    "workforce_distribution_percentage":5.4679403762
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"biotechnology",
+    "workforce_distribution_percentage":1.3456264964
+  },
+  {
+    "job_role":"Data Scientist",
+    "country":"United States of America",
+    "industry":"construction & heavy machinery",
+    "workforce_distribution_percentage":0.4683433122
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"sports",
+    "workforce_distribution_percentage":0.1033009452
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"insurance",
+    "workforce_distribution_percentage":5.1703329228
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"textiles, apparel and luxury goods",
+    "workforce_distribution_percentage":0.4746839894
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"banking & financial services",
+    "workforce_distribution_percentage":12.765945046
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"product engineering services",
+    "workforce_distribution_percentage":1.5278668312
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"consumer software",
+    "workforce_distribution_percentage":8.4680416495
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"semiconductor",
+    "workforce_distribution_percentage":0.6458356712
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"industrial",
+    "workforce_distribution_percentage":1.0676959464
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"logistics & supply chain",
+    "workforce_distribution_percentage":0.6258615902
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"enterprise software",
+    "workforce_distribution_percentage":14.9921299087
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"retail",
+    "workforce_distribution_percentage":2.6413984645
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"media & entertainment",
+    "workforce_distribution_percentage":1.8389526322
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"travel & hospitality",
+    "workforce_distribution_percentage":0.8107329342
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"consumer electronics",
+    "workforce_distribution_percentage":1.6250313359
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"education",
+    "workforce_distribution_percentage":1.2285095822
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"pharmaceutical",
+    "workforce_distribution_percentage":1.0015623491
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"chemicals & materials",
+    "workforce_distribution_percentage":0.4943539939
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"medical devices",
+    "workforce_distribution_percentage":0.8357153996
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"engineering, procurement and construction",
+    "workforce_distribution_percentage":1.1963073024
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"real estate",
+    "workforce_distribution_percentage":0.9449369589
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"professional services",
+    "workforce_distribution_percentage":13.2774035347
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"automotive",
+    "workforce_distribution_percentage":1.421516583
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"metals & mining",
+    "workforce_distribution_percentage":0.0980728701
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"energy & utilities",
+    "workforce_distribution_percentage":1.6149417743
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"hospital & healthcare",
+    "workforce_distribution_percentage":5.8586262774
+  },
+  {
+    "job_role":"Data Engineer",
+    "country":"United States of America",
+    "industry":"biotechnology",
+    "workforce_distribution_percentage":0.6483413283
+  }
+]

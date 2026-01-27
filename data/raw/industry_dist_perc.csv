@@ -1,0 +1,67 @@
+job_role,country,industry,workforce_distribution_percentage
+Data Scientist,United States of America,"food, beverages & consumer goods",1.0937585567235626
+Data Scientist,United States of America,telecommunications,1.5243793850763412
+Data Scientist,United States of America,it services,8.40522706757916
+Data Scientist,United States of America,government & non profit organisation,3.6802139362470863
+Data Scientist,United States of America,transportation,0.6040292477172295
+Data Scientist,United States of America,aerospace,2.202934898642132
+Data Engineer,United States of America,construction & heavy machinery,0.2843591460394823
+Data Engineer,United States of America,"food, beverages & consumer goods",0.9796121119146829
+Data Engineer,United States of America,telecommunications,2.1024965169863696
+Data Engineer,United States of America,it services,11.009795186877572
+Data Engineer,United States of America,government & non profit organisation,1.7396931840904177
+Data Engineer,United States of America,transportation,0.6707357458950153
+Data Engineer,United States of America,aerospace,1.835210286813874
+Data Scientist,United States of America,sports,0.11985683384144029
+Data Scientist,United States of America,insurance,3.424564281655476
+Data Scientist,United States of America,"textiles, apparel and luxury goods",0.31953974846400596
+Data Scientist,United States of America,banking & financial services,8.686545044240525
+Data Scientist,United States of America,product engineering services,1.726255564017261
+Data Scientist,United States of America,consumer software,13.041356880626164
+Data Scientist,United States of America,semiconductor,0.6202547860083147
+Data Scientist,United States of America,industrial,0.8942772442153882
+Data Scientist,United States of America,logistics & supply chain,0.720981125656627
+Data Scientist,United States of America,enterprise software,15.843631426559085
+Data Scientist,United States of America,retail,2.9699826428152774
+Data Scientist,United States of America,media & entertainment,1.5896915100753766
+Data Scientist,United States of America,travel & hospitality,0.7674590680485776
+Data Scientist,United States of America,consumer electronics,1.4379112804551015
+Data Scientist,United States of America,education,3.859774585397867
+Data Scientist,United States of America,pharmaceutical,1.9305455453634774
+Data Scientist,United States of America,chemicals & materials,0.592096873229714
+Data Scientist,United States of America,medical devices,1.026876917124122
+Data Scientist,United States of America,"engineering, procurement and construction",0.5409726253238247
+Data Scientist,United States of America,real estate,0.5522487789090151
+Data Scientist,United States of America,professional services,11.36856093375286
+Data Scientist,United States of America,automotive,1.2022702310866238
+Data Scientist,United States of America,metals & mining,0.10853061773783634
+Data Scientist,United States of America,energy & utilities,1.8633621786128187
+Data Scientist,United States of America,hospital & healthcare,5.467940376166272
+Data Scientist,United States of America,biotechnology,1.3456264964238631
+Data Scientist,United States of America,construction & heavy machinery,0.4683433122075743
+Data Engineer,United States of America,sports,0.10330094520855929
+Data Engineer,United States of America,insurance,5.170332922817492
+Data Engineer,United States of America,"textiles, apparel and luxury goods",0.4746839894153355
+Data Engineer,United States of America,banking & financial services,12.765945046013538
+Data Engineer,United States of America,product engineering services,1.527866831179347
+Data Engineer,United States of America,consumer software,8.468041649459888
+Data Engineer,United States of America,semiconductor,0.6458356712414868
+Data Engineer,United States of America,industrial,1.0676959464145015
+Data Engineer,United States of America,logistics & supply chain,0.6258615902303866
+Data Engineer,United States of America,enterprise software,14.992129908749074
+Data Engineer,United States of America,retail,2.641398464496087
+Data Engineer,United States of America,media & entertainment,1.8389526321697756
+Data Engineer,United States of America,travel & hospitality,0.8107329341912803
+Data Engineer,United States of America,consumer electronics,1.625031335908097
+Data Engineer,United States of America,education,1.2285095822482912
+Data Engineer,United States of America,pharmaceutical,1.001562349109851
+Data Engineer,United States of America,chemicals & materials,0.4943539938656734
+Data Engineer,United States of America,medical devices,0.8357153995820001
+Data Engineer,United States of America,"engineering, procurement and construction",1.196307302422563
+Data Engineer,United States of America,real estate,0.9449369588524661
+Data Engineer,United States of America,professional services,13.277403534749485
+Data Engineer,United States of America,automotive,1.4215165829510907
+Data Engineer,United States of America,metals & mining,0.09807287008999657
+Data Engineer,United States of America,energy & utilities,1.6149417742901606
+Data Engineer,United States of America,hospital & healthcare,5.858626277443447
+Data Engineer,United States of America,biotechnology,0.6483413282827137
