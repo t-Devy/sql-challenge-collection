@@ -3,9 +3,12 @@
 A batched data-extraction pipeline using `databricks-sql-connector`. 
 The result is 6 analysis ready tables focused on interpolated column values.
 
-`job_role = "%Data%"`  
+`job_role = "%Data%"`
 
 `country = "United States of America""`
+
+`collection\sql.queries.py` : Contains the batched queries and necessary 
+list and dictionary for extraction and export functions.
 
 ### Skills
 
