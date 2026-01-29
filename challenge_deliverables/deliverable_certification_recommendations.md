@@ -70,8 +70,25 @@ Query: `HIRING_COMPANIES_DS` - `queries_certification_recommendations.py`
 
 The business question posed the challenge of finding a way to aggregate 
 certification names/types across a column where values are all completely
-distinct. Thus, grouping was not effective to get value counts. The next
-approach involved testing various string parsing algorithms to collect 
+distinct. Thus, grouping was not effective to get value counts. 
+
+**Example:**
+
+| Certification Name |
+|--------------------|
+| Associate Certified Analytics Professional |
+| CS50's Introduction to Computer Science |
+| Cybersecurity Intro |
+| Databases and SQL for Data Science with Python - IBM Skills Network |
+| Generative AI for Beginners |
+| Leadership Mindsets |
+| Microsoft Power Apps Essential Training: The Basics |
+| Saviynt IGA Level 200 |
+| Scrum: Advanced |
+| Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation |
+
+
+The next approach involved testing various string parsing algorithms to collect 
 common phrases along with their appearance counts to gauge the significance
 of a certain type of certificate. This method satisfies **"which 
 certifications appear most frequently?"** The word-frequency-count output
