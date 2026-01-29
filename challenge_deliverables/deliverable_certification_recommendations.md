@@ -21,7 +21,7 @@ Query: `TOTAL_CERTS` - `queries_certification_recommendations.py`
 
 ### Task 1 - Which certifications appear most frequently for data scientists?
 
-Frequency Table Query: `CERTS_FREQUENCY_DS` - `queries_certification_recommendations.py`
+Frequency Table Query: `CERTS_FREQUENCY_DS` - `queries_certification_recommendations.py`\
 Frequency Validation Query: `SHOW_ALL_CERTS_DS` - `queries_certification_recommendations.py`
 
 | cert_type                     | num_certs |
