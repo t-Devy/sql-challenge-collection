@@ -4,8 +4,8 @@
 
 CREATE_CHALLENGE_COLLECTION = """CREATE SCHEMA IF NOT EXISTS challenges.collection;"""
 
-COUNTRY = "United States of America"
-ROLE_LIKE = "%Data%"
+COUNTRY = 'United States of America'
+ROLE_LIKE = '%Data%'
 
 # all_data_us = 44351
 CNP_TABLE = "challenges.collection.company_num_postings"
@@ -14,6 +14,7 @@ CREATE OR REPLACE TABLE {CNP_TABLE} AS
 SELECT 
     job_role,
     country,
+    company_name,
     job_postings_count
 FROM 
     draup_inc_global_labor_market_data_talent_intelligence_sample.role_country.competitors_country_job_role

@@ -3,4 +3,7 @@ pyarrow
 databricks-sql-connector
 python-dotenv
 databricks
+scikit-learn
+nltk
+
 
