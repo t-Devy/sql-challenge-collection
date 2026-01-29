@@ -69,7 +69,7 @@ Query: `HIRING_COMPANIES_DS` - `queries_certification_recommendations.py`
 # Methodology
 
 The business question posed the challenge of finding a way to aggregate 
-certification names/types across a column where values all completely
+certification names/types across a column where values are all completely
 distinct. Thus, grouping was not effective to get value counts. The next
 approach involved testing various string parsing algorithms to collect 
 common phrases along with their appearance counts to gauge the significance
