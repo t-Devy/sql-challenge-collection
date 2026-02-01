@@ -2,13 +2,13 @@
 # DataBricks Batching
 # =================================
 
-CREATE_CHALLENGE_COLLECTION = """CREATE SCHEMA IF NOT EXISTS challenges.collection;"""
+CREATE_CHALLENGE_COLLECTION = """CREATE SCHEMA IF NOT EXISTS challenges.challenge_tables;"""
 
 COUNTRY = 'United States of America'
 ROLE_LIKE = '%Data%'
 
 # all_data_us = 44351
-CNP_TABLE = "challenges.collection.company_num_postings"
+CNP_TABLE = "challenges.challenge_tables.company_num_postings"
 COMPANY_NUM_POSTINGS = f"""
 CREATE OR REPLACE TABLE {CNP_TABLE} AS
 SELECT 
@@ -24,7 +24,7 @@ WHERE
 """
 
 # all_data_us = 106901
-CL_TABLE = "challenges.collection.certs_licenses"
+CL_TABLE = "challenges.challenge_tables.certs_licenses"
 CERTS_LICENSES = f"""
 CREATE OR REPLACE TABLE {CL_TABLE} AS
 SELECT 
@@ -39,7 +39,7 @@ WHERE
 """
 
 # all_data_us = 42
-EDP_TABLE = "challenges.collection.experience_dist_perc"
+EDP_TABLE = "challenges.challenge_tables.experience_dist_perc"
 EXPERIENCE_DIST_PERC = f"""
 CREATE OR REPLACE TABLE {EDP_TABLE} AS
 SELECT
@@ -55,7 +55,7 @@ WHERE
 """
 
 # all_data_us = 2
-TDP_TABLE = "challenges.collection.talent_demand_pay"
+TDP_TABLE = "challenges.challenge_tables.talent_demand_pay"
 TALENT_DEMAND_PAY = f"""
 CREATE OR REPLACE TABLE {TDP_TABLE} AS
 SELECT
@@ -73,7 +73,7 @@ WHERE
 """
 
 # all_data_us = 38333
-TE_TABLE = "challenges.collection.top_employers"
+TE_TABLE = "challenges.challenge_tables.top_employers"
 TOP_EMPLOYERS = f"""
 CREATE OR REPLACE TABLE {TE_TABLE} AS
 SELECT 
@@ -88,7 +88,7 @@ WHERE
 """
 
 # all_data_us = 66
-IDP_TABLE = "challenges.collection.industry_dist_perc"
+IDP_TABLE = "challenges.challenge_tables.industry_dist_perc"
 INDUSTRY_DIST_PERC = f"""
 CREATE OR REPLACE TABLE {IDP_TABLE} AS
 SELECT 
@@ -135,7 +135,14 @@ TABLES = {
     "industry_dist_perc": IDP_TABLE,
 }
 
+BANDS_WF_DS_TABLE = "challenges.challenge_table_views.bands_by_wf_dist_ds"
+BANDS_WF_DE_TABLE = "challenges.challenge_table_views.bands_by_wf_dist_de"
 
+
+WF_DIST_BY_EXP_TABLES = {
+    "bands_by_wf_dist_ds": BANDS_WF_DS_TABLE,
+    "bands_by_wf_dist_de": BANDS_WF_DE_TABLE,
+}
 
 
 

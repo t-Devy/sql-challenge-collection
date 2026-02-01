@@ -58,6 +58,9 @@ def extract_df_with_cursor(cur, sql_text: str, params: tuple | None = None) -> p
     return pd.DataFrame(rows, columns=cols)
 
 def export_tables_one_conn(tables: dict[str, str], out_dir: Path) -> dict[str, pd.DataFrame]:
+    """
+    Make sure tables is a dictionary {"str": table_variable}
+    """
     out_dir.mkdir(parents=True, exist_ok=True)
     dfs: dict[str, pd.DataFrame] = {}
 
