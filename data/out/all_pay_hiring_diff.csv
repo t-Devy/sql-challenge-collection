@@ -1,0 +1,16 @@
+job_role,country,talent_size,talent_demand,supply_demand_ratio,median_base_pay,hiring_difficulty_index
+Data Scientist,Brazil,11875,606,19.6,216448.94,5.6
+Data Engineer,United States of America,218760,10455,20.92,130622.67,5.8
+Data Scientist,United States of America,134300,5753,23.34,144000,5.9
+Data Engineer,Brazil,24500,1000,24.5,182237.84,5.1
+Data Engineer,India,156730,5304,29.55,1085696,5
+Financial Analyst,Brazil,98842,3319,29.78,126554.51,6
+Product Manager,United States of America,463290,15499,29.89,130834,5.9
+Financial Analyst,United States of America,424675,13126,32.35,88886.46,5.7
+Product Manager,Brazil,35090,1015,34.57,148481.28,5.5
+Data Scientist,India,96504,2187,44.13,1231784.65,4.9
+Software Development Engineer,United States of America,2077465,38534,53.91,135650,5.9
+Product Manager,India,241076,3136,76.87,1976568.13,4.3
+Software Development Engineer,Brazil,194325,1671,116.29,189251.81,4
+Software Development Engineer,India,1877465,15983,117.47,1689055.24,4.6
+Financial Analyst,India,267362,1684,158.77,541798.99,3.4
