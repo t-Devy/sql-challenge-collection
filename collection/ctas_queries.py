@@ -145,9 +145,19 @@ WF_DIST_BY_EXP_TABLES = {
 }
 
 
-
-
-
-
-
 # =========================================
+
+
+# many_job_posts
+
+
+MANY_JOB_POSTS_TABLE="""
+SELECT * 
+FROM challenges.challenge_tables.many_job_posts
+LIMIT 5000;
+"""
+
+MANY_JOB_POSTS_DICT = {
+    "many_job_posts": MANY_JOB_POSTS_TABLE,
+
+}

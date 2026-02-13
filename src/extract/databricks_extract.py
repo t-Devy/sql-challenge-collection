@@ -16,6 +16,7 @@ def connect_dbx():
         access_token=os.environ["DATABRICKS_ACCESS_TOKEN"],
     )
 
+"""For creating single tables or schema at a time, used in tandem with df extraction for exporting csv"""
 def execute_sql(sql_text: str, params: tuple | None = None) -> None:
     # with our database connection object, closes when finished
     with connect_dbx() as conn:
